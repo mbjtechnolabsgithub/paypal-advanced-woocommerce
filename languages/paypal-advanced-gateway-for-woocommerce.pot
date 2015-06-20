@@ -1,0 +1,360 @@
+# Copyright (C) 2015 PayPal Advanced Gateway For WooCommerce
+# This file is distributed under the same license as the PayPal Advanced Gateway For WooCommerce package.
+msgid ""
+msgstr ""
+"Project-Id-Version: PayPal Advanced Gateway For WooCommerce 1.0.3\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/support/plugin/paypal-advanced-"
+"gateway-for-woocommerce\n"
+"POT-Creation-Date: 2015-04-23 02:14:12+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2015-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: admin/partials/paypal-advanced-gateway-for-woocommerce-admin-display.php:22
+#: admin/partials/paypal-advanced-gateway-for-woocommerce-admin-display.php:548
+#: admin/partials/paypal-advanced-gateway-for-woocommerce-admin-display.php:588
+msgid "PayPal Advanced"
+msgstr ""
+
+#: admin/partials/paypal-advanced-gateway-for-woocommerce-admin-display.php:93
+msgid ""
+"Paypal Advanced error: Please enter your PayPal Advanced Account Merchant "
+"Login <a href=\"%s\">here</a>"
+msgstr ""
+
+#: admin/partials/paypal-advanced-gateway-for-woocommerce-admin-display.php:96
+msgid ""
+"Paypal Advanced error: Please enter your PayPal Advanced Account Partner <a "
+"href=\"%s\">here</a>"
+msgstr ""
+
+#: admin/partials/paypal-advanced-gateway-for-woocommerce-admin-display.php:99
+msgid ""
+"Paypal Advanced error: Please enter your PayPal Advanced Account Password <a "
+"href=\"%s\">here</a>"
+msgstr ""
+
+#: admin/partials/paypal-advanced-gateway-for-woocommerce-admin-display.php:150
+msgid "Relay Response INVOICE = %s"
+msgstr ""
+
+#: admin/partials/paypal-advanced-gateway-for-woocommerce-admin-display.php:153
+msgid "Relay Response SECURETOKEN = %s"
+msgstr ""
+
+#: admin/partials/paypal-advanced-gateway-for-woocommerce-admin-display.php:156
+msgid "Relay Response Order Number = %s"
+msgstr ""
+
+#: admin/partials/paypal-advanced-gateway-for-woocommerce-admin-display.php:161
+msgid "Silent Relay Response Triggered: %s"
+msgstr ""
+
+#: admin/partials/paypal-advanced-gateway-for-woocommerce-admin-display.php:163
+msgid "Relay Response Triggered: %s"
+msgstr ""
+
+#: admin/partials/paypal-advanced-gateway-for-woocommerce-admin-display.php:173
+msgid "Relay Response Tokens Match"
+msgstr ""
+
+#: admin/partials/paypal-advanced-gateway-for-woocommerce-admin-display.php:176
+msgid "Relay Response Tokens Mismatch"
+msgstr ""
+
+#: admin/partials/paypal-advanced-gateway-for-woocommerce-admin-display.php:190
+#: admin/partials/paypal-advanced-gateway-for-woocommerce-admin-display.php:284
+msgid "Redirecting to Thank You Page for order %s"
+msgstr ""
+
+#: admin/partials/paypal-advanced-gateway-for-woocommerce-admin-display.php:202
+msgid "Payment failed via PayPal Advanced because of."
+msgstr ""
+
+#: admin/partials/paypal-advanced-gateway-for-woocommerce-admin-display.php:207
+msgid "Status has been changed to failed for order %s"
+msgstr ""
+
+#: admin/partials/paypal-advanced-gateway-for-woocommerce-admin-display.php:214
+#: admin/partials/paypal-advanced-gateway-for-woocommerce-admin-display.php:511
+#: admin/partials/paypal-advanced-gateway-for-woocommerce-admin-display.php:751
+msgid "Error:"
+msgstr ""
+
+#: admin/partials/paypal-advanced-gateway-for-woocommerce-admin-display.php:218
+msgid "Silent Error Occurred while processing %s : %s, status: %s"
+msgstr ""
+
+#: admin/partials/paypal-advanced-gateway-for-woocommerce-admin-display.php:220
+msgid "Error Occurred while processing %s : %s, status: %s"
+msgstr ""
+
+#: admin/partials/paypal-advanced-gateway-for-woocommerce-admin-display.php:229
+msgid ""
+"PayPal Advanced payment completed (Order: %s). Transaction number/ID: %s. "
+"But needs to Inquiry transaction to have confirmation that it is actually "
+"paid."
+msgstr ""
+
+#: admin/partials/paypal-advanced-gateway-for-woocommerce-admin-display.php:261
+#: admin/partials/paypal-advanced-gateway-for-woocommerce-admin-display.php:812
+msgid "There was a problem connecting to the payment gateway."
+msgstr ""
+
+#: admin/partials/paypal-advanced-gateway-for-woocommerce-admin-display.php:264
+#: admin/partials/paypal-advanced-gateway-for-woocommerce-admin-display.php:492
+#: admin/partials/paypal-advanced-gateway-for-woocommerce-admin-display.php:815
+msgid "Empty response."
+msgstr ""
+
+#: admin/partials/paypal-advanced-gateway-for-woocommerce-admin-display.php:274
+msgid ""
+"Received result of Inquiry Transaction for the  (Order: %s) and is successful"
+msgstr ""
+
+#: admin/partials/paypal-advanced-gateway-for-woocommerce-admin-display.php:303
+msgid "Requesting for the Secured Token for the order %s"
+msgstr ""
+
+#: admin/partials/paypal-advanced-gateway-for-woocommerce-admin-display.php:393
+msgid "Order %s"
+msgstr ""
+
+#: admin/partials/paypal-advanced-gateway-for-woocommerce-admin-display.php:472
+msgid ""
+"Requesting for the Secured Token for the order %s with following URL and "
+"Paramaters: %s"
+msgstr ""
+
+#: admin/partials/paypal-advanced-gateway-for-woocommerce-admin-display.php:508
+#: admin/partials/paypal-advanced-gateway-for-woocommerce-admin-display.php:517
+msgid "Secured Token generation failed for the order %s with error: %s"
+msgstr ""
+
+#: admin/partials/paypal-advanced-gateway-for-woocommerce-admin-display.php:549
+msgid ""
+"PayPal Payments Advanced uses an iframe to seamlessly integrate PayPal "
+"hosted pages into the checkout process."
+msgstr ""
+
+#: admin/partials/paypal-advanced-gateway-for-woocommerce-admin-display.php:555
+msgid "Gateway Disabled"
+msgstr ""
+
+#: admin/partials/paypal-advanced-gateway-for-woocommerce-admin-display.php:555
+msgid "PayPal does not support your store currency."
+msgstr ""
+
+#: admin/partials/paypal-advanced-gateway-for-woocommerce-admin-display.php:579
+msgid "Enable/Disable"
+msgstr ""
+
+#: admin/partials/paypal-advanced-gateway-for-woocommerce-admin-display.php:581
+msgid "Enable PayPal Advanced"
+msgstr ""
+
+#: admin/partials/paypal-advanced-gateway-for-woocommerce-admin-display.php:585
+msgid "Title"
+msgstr ""
+
+#: admin/partials/paypal-advanced-gateway-for-woocommerce-admin-display.php:587
+msgid "This controls the title which the user sees during checkout."
+msgstr ""
+
+#: admin/partials/paypal-advanced-gateway-for-woocommerce-admin-display.php:591
+msgid "Description"
+msgstr ""
+
+#: admin/partials/paypal-advanced-gateway-for-woocommerce-admin-display.php:593
+msgid "This controls the description which the user sees during checkout."
+msgstr ""
+
+#: admin/partials/paypal-advanced-gateway-for-woocommerce-admin-display.php:594
+msgid "PayPal Advanced description"
+msgstr ""
+
+#: admin/partials/paypal-advanced-gateway-for-woocommerce-admin-display.php:597
+msgid "Merchant Login"
+msgstr ""
+
+#: admin/partials/paypal-advanced-gateway-for-woocommerce-admin-display.php:603
+msgid "Partner"
+msgstr ""
+
+#: admin/partials/paypal-advanced-gateway-for-woocommerce-admin-display.php:605
+msgid ""
+"Enter your PayPal Advanced Partner. If you purchased the account directly "
+"from PayPal, use PayPal."
+msgstr ""
+
+#: admin/partials/paypal-advanced-gateway-for-woocommerce-admin-display.php:609
+msgid ""
+"User (or Merchant Login if no designated user is set up for the account)"
+msgstr ""
+
+#: admin/partials/paypal-advanced-gateway-for-woocommerce-admin-display.php:611
+msgid "Enter your PayPal Advanced user account for this site."
+msgstr ""
+
+#: admin/partials/paypal-advanced-gateway-for-woocommerce-admin-display.php:615
+msgid "Password"
+msgstr ""
+
+#: admin/partials/paypal-advanced-gateway-for-woocommerce-admin-display.php:617
+msgid "Enter your PayPal Advanced account password."
+msgstr ""
+
+#: admin/partials/paypal-advanced-gateway-for-woocommerce-admin-display.php:621
+msgid "PayPal sandbox"
+msgstr ""
+
+#: admin/partials/paypal-advanced-gateway-for-woocommerce-admin-display.php:623
+msgid "Enable PayPal sandbox"
+msgstr ""
+
+#: admin/partials/paypal-advanced-gateway-for-woocommerce-admin-display.php:625
+msgid ""
+"PayPal sandbox can be used to test payments. Sign up for a developer account "
+"<a href=\"%s\">here</a>"
+msgstr ""
+
+#: admin/partials/paypal-advanced-gateway-for-woocommerce-admin-display.php:628
+#: admin/partials/paypal-advanced-gateway-for-woocommerce-admin-display.php:630
+msgid "Transaction Type"
+msgstr ""
+
+#: admin/partials/paypal-advanced-gateway-for-woocommerce-admin-display.php:636
+#: admin/partials/paypal-advanced-gateway-for-woocommerce-admin-display.php:638
+msgid "Layout"
+msgstr ""
+
+#: admin/partials/paypal-advanced-gateway-for-woocommerce-admin-display.php:640
+msgid ""
+"Layouts A and B redirect to PayPal's website for the user to pay. <br/"
+">Layout C (recommended) is a secure PayPal-hosted page but is embedded on "
+"your site using an iFrame."
+msgstr ""
+
+#: admin/partials/paypal-advanced-gateway-for-woocommerce-admin-display.php:644
+msgid "Invoice Prefix"
+msgstr ""
+
+#: admin/partials/paypal-advanced-gateway-for-woocommerce-admin-display.php:646
+msgid ""
+"Please enter a prefix for your invoice numbers. If you use your PayPal "
+"account for multiple stores ensure this prefix is unique as PayPal will not "
+"allow orders with the same invoice number."
+msgstr ""
+
+#: admin/partials/paypal-advanced-gateway-for-woocommerce-admin-display.php:651
+msgid "Page Collapse Border Color"
+msgstr ""
+
+#: admin/partials/paypal-advanced-gateway-for-woocommerce-admin-display.php:653
+msgid "Sets the color of the border around the embedded template C."
+msgstr ""
+
+#: admin/partials/paypal-advanced-gateway-for-woocommerce-admin-display.php:659
+msgid "Page Collapse Text Color"
+msgstr ""
+
+#: admin/partials/paypal-advanced-gateway-for-woocommerce-admin-display.php:661
+msgid ""
+"Sets the color of the words \"Pay with PayPal\" and \"Pay with credit or "
+"debit card\"."
+msgstr ""
+
+#: admin/partials/paypal-advanced-gateway-for-woocommerce-admin-display.php:667
+msgid "Page Button Background Color"
+msgstr ""
+
+#: admin/partials/paypal-advanced-gateway-for-woocommerce-admin-display.php:669
+msgid "Sets the background color of the Pay Now / Submit button."
+msgstr ""
+
+#: admin/partials/paypal-advanced-gateway-for-woocommerce-admin-display.php:675
+msgid "Page Button Text Color"
+msgstr ""
+
+#: admin/partials/paypal-advanced-gateway-for-woocommerce-admin-display.php:677
+msgid "Sets the color of the text on the Pay Now / Submit button."
+msgstr ""
+
+#: admin/partials/paypal-advanced-gateway-for-woocommerce-admin-display.php:683
+msgid "Label Text Color"
+msgstr ""
+
+#: admin/partials/paypal-advanced-gateway-for-woocommerce-admin-display.php:685
+msgid ""
+"Sets the color of the text for \"card number\", \"expiration date\", ..etc."
+msgstr ""
+
+#: admin/partials/paypal-advanced-gateway-for-woocommerce-admin-display.php:691
+msgid "Debug Log"
+msgstr ""
+
+#: admin/partials/paypal-advanced-gateway-for-woocommerce-admin-display.php:693
+msgid "Enable logging"
+msgstr ""
+
+#: admin/partials/paypal-advanced-gateway-for-woocommerce-admin-display.php:695
+msgid ""
+"Log PayPal events, such as Secured Token requests, inside <code>woocommerce/"
+"logs/paypal_advanced.txt</code>"
+msgstr ""
+
+#: admin/partials/paypal-advanced-gateway-for-woocommerce-admin-display.php:740
+msgid "Secured Token generated successfully for the order %s"
+msgstr ""
+
+#: admin/partials/paypal-advanced-gateway-for-woocommerce-admin-display.php:776
+msgid "Partial refund is not supported"
+msgstr ""
+
+#: admin/partials/paypal-advanced-gateway-for-woocommerce-admin-display.php:824
+msgid "Response of the refund transaction: %s"
+msgstr ""
+
+#: admin/partials/paypal-advanced-gateway-for-woocommerce-admin-display.php:829
+msgid "Successfully Refunded - Refund Transaction ID: %s"
+msgstr ""
+
+#: admin/partials/paypal-advanced-gateway-for-woocommerce-admin-display.php:832
+#: admin/partials/paypal-advanced-gateway-for-woocommerce-admin-display.php:833
+msgid "Refund Failed - Refund Transaction ID: %s, Error Msg: %s"
+msgstr ""
+
+#: admin/partials/paypal-advanced-gateway-for-woocommerce-admin-display.php:860
+msgid "Browser Info: %s"
+msgstr ""
+
+#: admin/partials/paypal-advanced-gateway-for-woocommerce-admin-display.php:869
+msgid ""
+"Show payment form(IFRAME) for the order %s as it is configured to use Layout "
+"C"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "PayPal Advanced Gateway For WooCommerce"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "http://webs-spider.com/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Paypal Advanced Gateway For WooCommerce Developed by an Certified PayPal "
+"Developer, official PayPal Partner."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "johnwickjigo"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://www.mbjtechnolabs.com"
+msgstr ""
